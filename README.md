@@ -1,10 +1,10 @@
-<h1 align="letf">Hi 👋, I'm Orkhan Mustafayev</h1>
-<h3 align="left">A passionate developer from Azerbaijan</h3>
+<h3 align="letf">Hi 👋, I'm Orkhan Mustafayev</h3>
+<h4 align="left">A passionate developer from Azerbaijan</h4>
 
 ---
 
-
-  <summary><h3>Languages and Tools</h3></summary>
+<details>
+  <summary><h5>Languages and Tools</h5></summary>
   <p align="left">
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -25,17 +25,17 @@
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
     </a>
   </p>
+</details>
 
 
----
  <details>
-    <summary><h4>Top Used Languages</h4></summary>
+    <summary><h5>Top Used Languages</h5></summary>
   <p align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-orxan&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="Top Languages" />
   </p>
 </details>
 <details>
-  <summary><h4>GitHub Stats</h4></summary>
+  <summary><h5>GitHub Stats</h5></summary>
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=m-orxan&show_icons=true&locale=en&bg_color=000000" alt="GitHub Stats" />
 
