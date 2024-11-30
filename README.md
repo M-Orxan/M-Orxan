@@ -1,5 +1,4 @@
-<h3 align="letf">Hi 👋, I'm Orkhan Mustafayev</h3>
-<h4 align="left">A passionate developer from Azerbaijan</h4>
+<h2 align="letf">Hi 👋, I'm Orkhan Mustafayev from Azerbaijan</h2>
 
 ---
 
